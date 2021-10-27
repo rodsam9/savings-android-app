@@ -23,6 +23,6 @@ I learned the basics of Kotlin language in order to complete this app.
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* I'd like to add a budgeting system as well. Where user can track down his use of money per month.
+* I'd like to add a budgeting system as well. Where user can track down their use of money per month.
 * I'd also love to add more color and make the app appear better.
 
