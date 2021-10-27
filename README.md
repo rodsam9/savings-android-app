@@ -6,7 +6,7 @@ Well this app will help you follow the 50-30-20 percent rule. You'll be prompted
 
 This app is to help you save and use your money wisely!
 
-[Savings App Demo](http://youtube.link.goes.here)
+[Savings App Demo](https://www.youtube.com/watch?v=4o-Kf1T4G4o)
 
 # Development Environment
 
